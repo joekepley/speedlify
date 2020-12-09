@@ -16,7 +16,7 @@ module.exports = {
 		"https://www.childrenscolorado.org/",
 		"https://www.childrenscolorado.org/conditions-and-advice/conditions-and-symptoms/conditions/coronavirus-in-children/",
 		"https://www.childrenscolorado.org/surgery-little-things/",
-		"https://www.childrenscolorado.org/es/conditions-and-advice/conditions-and-symptoms/symptoms/excremento-color-inusual-del/",
+//		"https://www.childrenscolorado.org/es/conditions-and-advice/conditions-and-symptoms/symptoms/excremento-color-inusual-del/",
 
 	]
 };
