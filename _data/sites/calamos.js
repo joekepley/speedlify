@@ -14,12 +14,12 @@ module.exports = {
 	},
 	urls: [
 		"https://www.calamos.com/",
-//		"https://wm.calamos.com/",
+		"https://wm.calamos.com/",
 		"https://www.calamos.com/blogs/voices/investing-through-uncertainty-perspectives-from-the-calamos-investment-team/",
 		"https://www.calamos.com/funds/mutual/evolving-world-growth-cnwix/",
-//		"https://www.calamos.com/funds/closed-end/convertible-high-income-chy/",
+		"https://www.calamos.com/funds/closed-end/convertible-high-income-chy/",
 		"https://www.calamos.com/about/news/",
-//		"https://www.calamos.com/funds/closed-end/",
-//		"https://www.calamos.com/resources/tax-center/"
+		"https://www.calamos.com/funds/closed-end/",
+		"https://www.calamos.com/resources/tax-center/"
 	]
 };
