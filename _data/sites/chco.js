@@ -3,7 +3,7 @@ module.exports = {
 	description: "Children's Colorado",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
-	skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
+	skip: false,
 	options: {
 		frequency: 60 * 23, // 23 hours
 		// Use "run" if the sites don’t share assets on the same origin
@@ -17,6 +17,6 @@ module.exports = {
 		"https://www.childrenscolorado.org/conditions-and-advice/conditions-and-symptoms/conditions/coronavirus-in-children/",
 		"https://www.childrenscolorado.org/surgery-little-things/",
 		"https://www.childrenscolorado.org/es/conditions-and-advice/conditions-and-symptoms/symptoms/excremento-color-inusual-del/",
-		
+
 	]
 };
